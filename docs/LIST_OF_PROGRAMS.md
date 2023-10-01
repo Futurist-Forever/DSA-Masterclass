@@ -10,9 +10,7 @@ the memory of the array after its use.
 Employee’s information includes data members: Emp-id, Name, Designation, basic_salary, hra%, da%. 
 Display the information of employees with gross salary. Use array of structure.
 
-4. **Complex Number:** Write a menu driven program to create a structure to represent complex number and perform the following 
- operation
- using function :
+4. **Complex Number:** Write a menu driven program to create a structure to represent complex number and perform the following operation using function :
 * addition of two complex number  (call by value)
 * multiplication of two complex number (call by address)
 
@@ -21,3 +19,20 @@ Display the information of employees with gross salary. Use array of structure.
 * delete an element from a specific position of the array.
 * linear search to search an element
 * traversal of the array
+
+6. **Matrix:** Write a program to perform the following operations on a given square matrix using functions:
+* Find the no.of nonzero elements
+* Display upper triangular matrix
+* Display the elements of just above and below the main diagonal
+
+7. **Sparse Matrix using 2D Array:** WAP to represent a given sparse matrix in 3-tuple format using 2-D array.
+
+8. **Sparse Matrix Transpose:** WAP to perform transpose of a given sparse matrix in 3-tuple format.
+
+9. **Linked List:** Write a program to create a single linked list of n nodes and perform the following menu based operations on it using function:
+* Insert a node at specific position 
+* Insert after a given data
+* Deletion of an element from specific position
+* Delete of a given data  
+* Count nodes
+* Traverse the linked list
